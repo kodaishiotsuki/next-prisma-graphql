@@ -1,0 +1,10 @@
+Memo of schema
+
+-Todo
+  -id        String
+  -userId    String
+  -title     String
+  -completed Boolean
+  -createdAt DateTime
+  -updatedAt DateTime
+  -user      User
